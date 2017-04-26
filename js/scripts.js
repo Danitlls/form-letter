@@ -6,3 +6,14 @@ $(document).ready(function() {
       event.preventDefault();
   });
 });
+// Test for getting hex value in console
+
+// var favoriteColor;
+//
+// $(document).ready(function() {
+//   $("#colorwheel").submit(function(event){
+//     favoriteColor = $("#color").val();
+//     event.preventDefault();
+//     console.log(favoriteColor);
+//   });
+//  });
